@@ -1,0 +1,15 @@
+C:\Users\mateus.kono\Documents\Development\Peronal\Repositories\HandsOnSolidUnicamp\HandsOnSolidUnicamp\bin\Debug\net5.0\BeforeChanges.exe
+C:\Users\mateus.kono\Documents\Development\Peronal\Repositories\HandsOnSolidUnicamp\HandsOnSolidUnicamp\bin\Debug\net5.0\BeforeChanges.deps.json
+C:\Users\mateus.kono\Documents\Development\Peronal\Repositories\HandsOnSolidUnicamp\HandsOnSolidUnicamp\bin\Debug\net5.0\BeforeChanges.runtimeconfig.json
+C:\Users\mateus.kono\Documents\Development\Peronal\Repositories\HandsOnSolidUnicamp\HandsOnSolidUnicamp\bin\Debug\net5.0\BeforeChanges.runtimeconfig.dev.json
+C:\Users\mateus.kono\Documents\Development\Peronal\Repositories\HandsOnSolidUnicamp\HandsOnSolidUnicamp\bin\Debug\net5.0\BeforeChanges.dll
+C:\Users\mateus.kono\Documents\Development\Peronal\Repositories\HandsOnSolidUnicamp\HandsOnSolidUnicamp\bin\Debug\net5.0\ref\BeforeChanges.dll
+C:\Users\mateus.kono\Documents\Development\Peronal\Repositories\HandsOnSolidUnicamp\HandsOnSolidUnicamp\bin\Debug\net5.0\BeforeChanges.pdb
+C:\Users\mateus.kono\Documents\Development\Peronal\Repositories\HandsOnSolidUnicamp\HandsOnSolidUnicamp\obj\Debug\net5.0\BeforeChanges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateus.kono\Documents\Development\Peronal\Repositories\HandsOnSolidUnicamp\HandsOnSolidUnicamp\obj\Debug\net5.0\BeforeChanges.AssemblyInfoInputs.cache
+C:\Users\mateus.kono\Documents\Development\Peronal\Repositories\HandsOnSolidUnicamp\HandsOnSolidUnicamp\obj\Debug\net5.0\BeforeChanges.AssemblyInfo.cs
+C:\Users\mateus.kono\Documents\Development\Peronal\Repositories\HandsOnSolidUnicamp\HandsOnSolidUnicamp\obj\Debug\net5.0\BeforeChanges.csproj.CoreCompileInputs.cache
+C:\Users\mateus.kono\Documents\Development\Peronal\Repositories\HandsOnSolidUnicamp\HandsOnSolidUnicamp\obj\Debug\net5.0\BeforeChanges.dll
+C:\Users\mateus.kono\Documents\Development\Peronal\Repositories\HandsOnSolidUnicamp\HandsOnSolidUnicamp\obj\Debug\net5.0\ref\BeforeChanges.dll
+C:\Users\mateus.kono\Documents\Development\Peronal\Repositories\HandsOnSolidUnicamp\HandsOnSolidUnicamp\obj\Debug\net5.0\BeforeChanges.pdb
+C:\Users\mateus.kono\Documents\Development\Peronal\Repositories\HandsOnSolidUnicamp\HandsOnSolidUnicamp\obj\Debug\net5.0\BeforeChanges.genruntimeconfig.cache

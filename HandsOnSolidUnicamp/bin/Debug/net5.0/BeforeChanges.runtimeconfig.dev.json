@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mateus.kono\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mateus.kono\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\mateus.kono\Documents\Development\Peronal\Repositories\HandsOnSolidUnicamp\AfterChanges\bin\Debug\net5.0\AfterChanges.exe
+C:\Users\mateus.kono\Documents\Development\Peronal\Repositories\HandsOnSolidUnicamp\AfterChanges\bin\Debug\net5.0\AfterChanges.deps.json
+C:\Users\mateus.kono\Documents\Development\Peronal\Repositories\HandsOnSolidUnicamp\AfterChanges\bin\Debug\net5.0\AfterChanges.runtimeconfig.json
+C:\Users\mateus.kono\Documents\Development\Peronal\Repositories\HandsOnSolidUnicamp\AfterChanges\bin\Debug\net5.0\AfterChanges.runtimeconfig.dev.json
+C:\Users\mateus.kono\Documents\Development\Peronal\Repositories\HandsOnSolidUnicamp\AfterChanges\bin\Debug\net5.0\AfterChanges.dll
+C:\Users\mateus.kono\Documents\Development\Peronal\Repositories\HandsOnSolidUnicamp\AfterChanges\bin\Debug\net5.0\ref\AfterChanges.dll
+C:\Users\mateus.kono\Documents\Development\Peronal\Repositories\HandsOnSolidUnicamp\AfterChanges\bin\Debug\net5.0\AfterChanges.pdb
+C:\Users\mateus.kono\Documents\Development\Peronal\Repositories\HandsOnSolidUnicamp\AfterChanges\obj\Debug\net5.0\AfterChanges.csproj.AssemblyReference.cache
+C:\Users\mateus.kono\Documents\Development\Peronal\Repositories\HandsOnSolidUnicamp\AfterChanges\obj\Debug\net5.0\AfterChanges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateus.kono\Documents\Development\Peronal\Repositories\HandsOnSolidUnicamp\AfterChanges\obj\Debug\net5.0\AfterChanges.AssemblyInfoInputs.cache
+C:\Users\mateus.kono\Documents\Development\Peronal\Repositories\HandsOnSolidUnicamp\AfterChanges\obj\Debug\net5.0\AfterChanges.AssemblyInfo.cs
+C:\Users\mateus.kono\Documents\Development\Peronal\Repositories\HandsOnSolidUnicamp\AfterChanges\obj\Debug\net5.0\AfterChanges.csproj.CoreCompileInputs.cache
+C:\Users\mateus.kono\Documents\Development\Peronal\Repositories\HandsOnSolidUnicamp\AfterChanges\obj\Debug\net5.0\AfterChanges.dll
+C:\Users\mateus.kono\Documents\Development\Peronal\Repositories\HandsOnSolidUnicamp\AfterChanges\obj\Debug\net5.0\ref\AfterChanges.dll
+C:\Users\mateus.kono\Documents\Development\Peronal\Repositories\HandsOnSolidUnicamp\AfterChanges\obj\Debug\net5.0\AfterChanges.pdb
+C:\Users\mateus.kono\Documents\Development\Peronal\Repositories\HandsOnSolidUnicamp\AfterChanges\obj\Debug\net5.0\AfterChanges.genruntimeconfig.cache
