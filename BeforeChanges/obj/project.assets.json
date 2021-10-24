@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mateus.kono\\Documents\\Development\\Peronal\\Repositories\\HandsOnSolidUnicamp\\HandsOnSolidUnicamp\\BeforeChanges.csproj",
+      "projectUniqueName": "C:\\Users\\mateus.kono\\Documents\\Development\\Peronal\\Repositories\\HandsOnSolidUnicamp\\BeforeChanges\\BeforeChanges.csproj",
       "projectName": "BeforeChanges",
-      "projectPath": "C:\\Users\\mateus.kono\\Documents\\Development\\Peronal\\Repositories\\HandsOnSolidUnicamp\\HandsOnSolidUnicamp\\BeforeChanges.csproj",
+      "projectPath": "C:\\Users\\mateus.kono\\Documents\\Development\\Peronal\\Repositories\\HandsOnSolidUnicamp\\BeforeChanges\\BeforeChanges.csproj",
       "packagesPath": "C:\\Users\\mateus.kono\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mateus.kono\\Documents\\Development\\Peronal\\Repositories\\HandsOnSolidUnicamp\\HandsOnSolidUnicamp\\obj\\",
+      "outputPath": "C:\\Users\\mateus.kono\\Documents\\Development\\Peronal\\Repositories\\HandsOnSolidUnicamp\\BeforeChanges\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mateus.kono\\AppData\\Roaming\\NuGet\\NuGet.Config",

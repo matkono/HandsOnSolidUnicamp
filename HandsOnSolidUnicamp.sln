@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeforeChanges", "HandsOnSolidUnicamp\BeforeChanges.csproj", "{FE63A8AA-926C-4CD9-9878-0618D8B52B38}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeforeChanges", "BeforeChanges\BeforeChanges.csproj", "{FE63A8AA-926C-4CD9-9878-0618D8B52B38}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AfterChanges", "AfterChanges\AfterChanges.csproj", "{2C9EDF30-ACBE-47E3-A7C5-2471CA9ECC5A}"
 EndProject
