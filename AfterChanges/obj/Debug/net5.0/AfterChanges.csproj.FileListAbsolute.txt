@@ -14,3 +14,5 @@ C:\Users\mateus.kono\Documents\Development\Peronal\Repositories\HandsOnSolidUnic
 C:\Users\mateus.kono\Documents\Development\Peronal\Repositories\HandsOnSolidUnicamp\AfterChanges\obj\Debug\net5.0\ref\AfterChanges.dll
 C:\Users\mateus.kono\Documents\Development\Peronal\Repositories\HandsOnSolidUnicamp\AfterChanges\obj\Debug\net5.0\AfterChanges.pdb
 C:\Users\mateus.kono\Documents\Development\Peronal\Repositories\HandsOnSolidUnicamp\AfterChanges\obj\Debug\net5.0\AfterChanges.genruntimeconfig.cache
+C:\Users\mateus.kono\Documents\Development\Peronal\Repositories\HandsOnSolidUnicamp\AfterChanges\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mateus.kono\Documents\Development\Peronal\Repositories\HandsOnSolidUnicamp\AfterChanges\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
