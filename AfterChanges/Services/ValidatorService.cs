@@ -152,7 +152,7 @@ namespace AfterChanges.Services
                 return false;
             }
 
-            if (DateTime.Compare(promotionalStartDateAsDateTime, DateTime.UtcNow) < 0)
+            if (DateTime.Compare(promotionalStartDateAsDateTime, DateTime.UtcNow.Date) < 0)
             {
                 Console.WriteLine("Promotional start date must be greater than today");
                 Console.WriteLine("--------------------------------------------------------------------------");
