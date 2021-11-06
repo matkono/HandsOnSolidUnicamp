@@ -5,14 +5,14 @@ namespace AfterChanges
 {
     public class ProductStock
     {
-        public List<Product> Products { get; set; }
+        public List<Product> Products { get; private set; }
 
         public ProductStock()
         {
             Products = new List<Product>();
         }
 
-        public void AddProduct(Product product) 
+        public Product AddProduct(Product product) 
         {
             var productAlreadyExists = Products.Exists(productInMemory => productInMemory.Id == product.Id);
             if (productAlreadyExists)
@@ -22,9 +22,11 @@ namespace AfterChanges
             Products.Add(product);
             Console.WriteLine($"Product with Id {product.Id} was added.");
             Console.WriteLine($"Products count in stock after add: {Products.Count}");
+
+            return product;
         }
 
-        public void UpdateProduct(Product product)
+        public Product UpdateProduct(Product product)
         {
             var productExists = Products.Exists(productInMemory => productInMemory.Id == product.Id);
             if (!productExists)
@@ -35,9 +37,11 @@ namespace AfterChanges
             Products.Remove(productInMemory);
             Products.Add(product);
             Console.WriteLine($"Product after being updated: {product.GetInfos()}");
+
+            return product;
         }
 
-        public void DeleteProduct(int productId) 
+        public bool DeleteProduct(int productId) 
         {
             var productExists = Products.Exists(productInMemory => productInMemory.Id == productId);
             if (!productExists)
@@ -48,16 +52,21 @@ namespace AfterChanges
             var productInMemory = Products.Find(pim => pim.Id == productId);
             Products.Remove(productInMemory);
             Console.WriteLine($"Products count in stock after delete: {Products.Count}");
+
+            return true;
         }
 
-        public void GetProductInfo(int productId) 
+        public string GetProductInfo(int productId) 
         {
             var productExists = Products.Exists(productInMemory => productInMemory.Id == productId);
             if (!productExists)
                 throw new Exception($"The product with Id {productId} does not exist");
 
             var productInMemory = Products.Find(pim => pim.Id == productId);
-            Console.WriteLine(productInMemory.GetInfos());
+            var productInfo = productInMemory.GetInfos();
+            Console.WriteLine(productInfo);
+
+            return productInfo;
         }
     }
 }

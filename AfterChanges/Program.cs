@@ -95,7 +95,7 @@ namespace AfterChanges
             var product = new Product(productId, productName, productPrice);
 
             if (CheckIfProductHasPromotional())
-                product.Promotionals = GetProductPromotionals();
+                GetProductPromotionals(product);
 
             Console.WriteLine("--------------------------------------------------------------------------");
             return product;
@@ -155,17 +155,14 @@ namespace AfterChanges
             return productPrice;
         }
 
-        public static List<Promotional> GetProductPromotionals() 
+        public static void GetProductPromotionals(Product product) 
         {
-            var promotionals = new List<Promotional>();
             var promotionalsAmount = GetPromotionalsAmount();
             for (var promotionalCounter = 1; promotionalCounter <= promotionalsAmount; promotionalCounter++)
             {
                 var promotional = BuildPromotional(promotionalCounter);
-                promotionals.Add(promotional);
+                product.AddPromotional(promotional);
             }
-
-            return promotionals;
         }
 
         private static int GetPromotionalsAmount() 

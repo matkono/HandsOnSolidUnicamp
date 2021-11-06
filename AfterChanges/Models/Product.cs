@@ -6,13 +6,13 @@ namespace AfterChanges
 {
     public class Product
     {
-        public int Id { get; set; }
+        public int Id { get; private set; }
 
-        public int Price { get; set; }
+        public int Price { get; private set; }
 
-        public string Name { get; set; }
+        public string Name { get;  private set; }
 
-        public List<Promotional> Promotionals { get; set; }
+        public List<Promotional> Promotionals { get; private set; }
 
         public Product(int id, string name, int price)
         {
@@ -43,6 +43,16 @@ namespace AfterChanges
             }
 
             return promotionalsInfo;
+        }
+
+        public void AddPromotional(Promotional promotional) 
+        {
+            Promotionals.Add(promotional);
+        }
+
+        public void ChangeName(string newName) 
+        {
+            Name = newName;
         }
     }
 }
