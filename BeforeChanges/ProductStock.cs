@@ -12,14 +12,14 @@ namespace BeforeChanges
             Products = new List<Product>();
         }
 
-        public void ManageProduct(Product product, int operationType) 
+        public Tuple<Product, int> ManageProduct(Product product, int operationType) 
         {
             var productInMemory = Products.Find(pim => pim.Id == product.Id);
 
             if (operationType == 4) 
             {
                 Console.WriteLine(productInMemory.GetInfos());
-                return;
+                return new Tuple<Product, int>(productInMemory, operationType);
             }
             
             if (operationType == 3)
@@ -28,7 +28,7 @@ namespace BeforeChanges
                 Console.WriteLine($"Product with Id {productInMemory.Id} will be deleted.");
                 Products.Remove(productInMemory);
                 Console.WriteLine($"Products count in stock after delete: {Products.Count}");
-                return;
+                return new Tuple<Product, int>(productInMemory, operationType);
             }
 
             if (productInMemory == null) 
@@ -44,6 +44,8 @@ namespace BeforeChanges
             Products.Remove(productInMemory);
             Products.Add(product);
             Console.WriteLine($"Product after being updated: {product.GetInfos()}");
+
+            return new Tuple<Product, int>(product, operationType);
         }
     }
 }
